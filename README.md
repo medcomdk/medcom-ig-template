@@ -3,4 +3,4 @@ Template for all DK FHIR implementation guides
 
 Use it by stating 
 
-`template = fhir.dk.template#current`
+`template = hl7.dk.fhir.template#current`
