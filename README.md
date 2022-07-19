@@ -1,6 +1,7 @@
-# ig-template-dk
-Template for all DK FHIR implementation guides
+# MedCom IG-template
+
+Template for all MedCom's FHIR Implementation Guides
 
 Use it by stating 
 
-`template = hl7.dk.fhir.template#current`
+`template = medcom.fhir.template#current`

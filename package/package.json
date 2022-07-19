@@ -1,11 +1,11 @@
 {
-  "name": "hl7.dk.fhir.template",
+  "name": "medcom.fhir.template",
   "version": "0.0.1",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "description": "HL7 Denmark Template - for use with HL7 Denmark-published FHIR IGs",
-  "author": "http://github.com/hl7dk",
-  "canonical": "http://github.com/hl7dk/dk-ig-template",
+  "description": "MedCom Template - used when publish MedComs FHIR standards",
+  "author": "http://github.com/medcomdk",
+  "canonical": "http://github.com/medcomdk/medcom-ig-template",
   "base": "fhir.base.template",
   "dependencies": {
     "fhir.base.template": "current"

@@ -1,9 +1,9 @@
 /* Product families should override the following colors with family-specific colors */
 :root {
-  --navbar-bg-color: #e02e3b; /* 2. Header container color */
-  --footer-bg-color: #707070; /* 3. Footer background color*/
-  --footer-container-bg-color: #e02e3b; /* 4. Footer container color */
-  --btn-hover-color: #d6d6d6;  /* 6. Menu button hover color */
+  --navbar-bg-color: #2C415C; /* 2. Header container color */
+  --footer-bg-color: #08892F; /* 3. Footer background color*/
+  --footer-container-bg-color: #2C415C; /* 4. Footer container color */
+  --btn-hover-color: #ACACAC;  /* 6. Menu button hover color */
 }
 
 /* Generic settings common to all HL7 IGs */
