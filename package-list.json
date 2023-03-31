@@ -1,24 +1,24 @@
 ﻿{
-  "package-id": "medcom.fhir.template",
-  "title": "Base template for FHIR IGs published by MedCom",
-  "canonical": "http://fhir.org/templates/medcom.fhir.template",
-  "introduction": "This is the basic template for FHIR Guides published by MedCom",
-  "list": [
+  "package-id" : "medcom.fhir.template",
+  "title" : "Base template for FHIR IGs published by MedCom",
+  "canonical" : "http://fhir.org/templates/medcom.fhir.template",
+  "introduction" : "This is the basic template for FHIR Guides published by MedCom",
+  "list" : [
     {
-      "version": "current",
-      "desc": "Continuous Integration Build (latest in version control)",
-      "path": "https://github.com/medcomdk/medcom-ig-template",
-      "status": "ci-build",
-      "current": true
+      "version" : "current",
+      "desc" : "Continuous Integration Build (latest in version control)",
+      "path" : "https://github.com/medcomdk/medcom-ig-template",
+      "status" : "ci-build",
+      "current" : true
     },
     {
-      "version": "0.0.1",
-      "desc": "First release",
-      "path": "http://fhir.org/templates/medcom.fhir.template/0.0.1",
-      "status": "release",
-      "sequence": "Publications",
-      "current": true,
-      "date": "2022-07-19"
+      "version" : "0.0.1",
+      "desc" : "First release",
+      "path" : "http://fhir.org/templates/medcom.fhir.template/0.0.1",
+      "status" : "release",
+      "sequence" : "Publications",
+      "current" : true,
+      "date" : "2022-07-19"
     }
   ]
 }

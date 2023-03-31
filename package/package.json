@@ -1,13 +1,12 @@
 {
-  "name": "medcom.fhir.template",
-  "version": "0.0.1",
-  "type": "fhir.template",
-  "license": "CC0-1.0",
-  "description": "MedCom Template - used when publish MedComs FHIR standards",
-  "author": "http://github.com/medcomdk",
-  "canonical": "http://github.com/medcomdk/medcom-ig-template",
-  "base": "fhir.base.template",
-  "dependencies": {
-    "fhir.base.template": "current"
+  "name" : "medcom.fhir.template",
+  "version" : "0.0.1",
+  "license" : "CC0-1.0",
+  "description" : "MedCom Template - used when publish MedComs FHIR standards",
+  "author" : "http://github.com/medcomdk",
+  "canonical" : "http://github.com/medcomdk/medcom-ig-template",
+  "base" : "fhir.base.template",
+  "dependencies" : {
+    "fhir.base.template" : "current"
   }
 }
