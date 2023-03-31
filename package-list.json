@@ -19,6 +19,15 @@
       "sequence" : "Publications",
       "current" : true,
       "date" : "2022-07-19"
+    },
+    {
+      "version" : "0.0.2",
+      "desc" : "release",
+      "path" : "http://fhir.org/templates/medcom.fhir.template/0.0.2",
+      "status" : "release",
+      "sequence" : "Publications",
+      "current" : true,
+      "date" : "2023-03-31"
     }
   ]
 }
