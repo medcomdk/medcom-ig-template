@@ -5,7 +5,7 @@
   "description" : "MedCom Template - used when publish MedComs FHIR standards",
   "author" : "https://github.com/medcomdk",
   "canonical" : "https://github.com/medcomdk/medcom-ig-template",
-  "base" : "fhir.base.template",
+  "base" : "medcom.base.template",
   "dependencies" : {
     "fhir.base.template" : "current"
   }
